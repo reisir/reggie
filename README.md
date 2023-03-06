@@ -2,6 +2,7 @@
 
 Art by whygena
 
+- [Patreon](https://www.patreon.com/whygena)
 - [Newgrounds](https://whygena-draws.newgrounds.com/)
 - [Twitter](https://twitter.com/Whygena_Draws)
 - [Youtube](https://www.youtube.com/@whygenadraws)
