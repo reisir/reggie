@@ -17,3 +17,13 @@ Currently I just use [ezgif](https://ezgif.com) to make gifs because it's ez. In
 # Why
 
 ![reggie boom boom boom](https://media.tenor.com/MmSJ0H9RD98AAAAC/reggie-boom-boom-boom-boom.gif)
+
+# Gallery
+
+![le sigh](https://github.com/reisir/reggie/blob/main/gifs/le%20sigh.gif?raw=true)
+
+![slepe](https://github.com/reisir/reggie/blob/main/gifs/slepe.gif?raw=true)
+
+![wake](https://github.com/reisir/reggie/blob/main/gifs/wake.gif?raw=true)
+
+![yawn](https://github.com/reisir/reggie/blob/main/gifs/yawn.gif?raw=true)
