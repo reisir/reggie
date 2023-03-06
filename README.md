@@ -1,3 +1,5 @@
+![jeffe quote](https://user-images.githubusercontent.com/93496808/223194807-88bb077d-5493-4ae4-bd69-038219401cfe.png)
+
 # Reggie
 
 Art by whygena
